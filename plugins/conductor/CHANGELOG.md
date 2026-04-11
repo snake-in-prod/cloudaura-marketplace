@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.1](https://github.com/cloudaura-io/cloudaura-marketplace/compare/conductor-v0.6.0...conductor-v0.6.1) (2026-04-11)
+
+
+### Bug Fixes
+
+* **conductor:** change disable-model-invocation to false ([14d2b1f](https://github.com/cloudaura-io/cloudaura-marketplace/commit/14d2b1f4cc90d1147648ef7fd3a6a7000e5a72d0))
+
 ## [0.6.0](https://github.com/cloudaura-io/cloudaura-marketplace/compare/conductor-v0.5.0...conductor-v0.6.0) (2026-02-21)
 
 
